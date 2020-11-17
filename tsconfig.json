@@ -24,7 +24,7 @@
     "**/*.tsx"
   ],
   "exclude": [
-    "node_modules",
-    "twin.d.ts"
-  ]
+    "node_modules"
+  ],
+  "files": ["twin.d.ts"],
 }
